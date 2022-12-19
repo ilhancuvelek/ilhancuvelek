@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilhancuvelek/)
-[![gmail](https://img.shields.io/badge/-Gmail-red?style=quare&labelColor=red&logo=Gmail&logoColor=white)](cuvelekilhan@gmail.com)
+[![linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilhancuvelek/)
+[![gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&labelColor=red&logo=Gmail&logoColor=white)](cuvelekilhan@gmail.com)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
 
