@@ -53,13 +53,12 @@
 ###
 
 <h2 align="center"> Connect with me</h2>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/ilhancuvelek/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="cuvelekilhan@gmail.com" target="_blank">
+<a href = 'https://www.linkedin.com/in/ilhancuvelek/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/ilhancuvelek'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+  <br/>
+  <br/>
+  <a href="mailto:cuvelekilhan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
